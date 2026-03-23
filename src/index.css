@@ -261,6 +261,7 @@ p {
 .row select {
   width: 140px;
   padding: 10px;
+  border-radius: none;
 }
 
 input:hover {
@@ -310,6 +311,9 @@ ul {
 @media (max-width: 768px) {
   .hero {
     width: 90%;
+  }
+  .hero h1 {
+    font-size: 32px;
   }
   .card {
     width: 90%;
