@@ -18,7 +18,7 @@ A simple and intuitive sleep cycle calculator that helps users determine the bes
 
 ## Demo
 
-[Live Demo Link] ← (add after deploy)
+[https://timothieecantcode.github.io/remify/]
 
 ## Why I built this
 
