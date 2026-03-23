@@ -101,7 +101,7 @@ export default function App() {
     <div>
       <div className="nav">
         <h1 className="logo">
-          REMify <img src="/favicon.png" alt="logo" />
+          REMify <img src="/remify/favicon.png" alt="logo" />
         </h1>
         <a
           className="nav-right"
