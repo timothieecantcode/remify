@@ -105,7 +105,7 @@ export default function App() {
         </h1>
         <a
           className="nav-right"
-          href="https://timothieecantcode.github.io/Portfolio/"
+          href="https://timothieecantcode.github.io/portfolio/"
           target="_blank"
           rel="noopener noreferrer"
         >
