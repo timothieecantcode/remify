@@ -33,4 +33,4 @@ As a software engineering student, I wanted to build a practical tool to improve
 ## Author
 
 Timothie Nguyen  
-[https://timothieecantcode.github.io/Portfolio/]
+[https://timothieecantcode.github.io/portfolio/]
